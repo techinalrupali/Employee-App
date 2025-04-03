@@ -1,0 +1,21 @@
+*{
+    color: white;
+}
+body{
+    background: rgba(7, 68, 63, 0.979) ;
+    font-family: Arial, sans-serif;
+}
+
+#update{
+    display: none;
+}
+#gender option{
+    color: gray;
+}
+.edit-btn {
+    background: #ffc107;
+}
+.delete-btn {
+    background: #dc3545;
+    color: white;
+}
